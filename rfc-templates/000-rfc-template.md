@@ -12,7 +12,7 @@ If needed, more in-depth description of the problem and its context.
 
 #### Proposers
 
-A list of proposers. These are the owners of the RFC, and is responsible for moving it to a resolved state ( **Who**).
+A list of proposers. These are the owners of the RFC, and is responsible for moving it to a resolved state (**Who**).
 
 #### Duration
 
