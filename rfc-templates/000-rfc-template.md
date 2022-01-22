@@ -4,7 +4,7 @@ A short title setting the theme for the RFC (**What**).
 
 #### Problem Statement
 
-A few paragraphs that describes the root problem (**Why****).
+A few paragraphs that describes the root problem (**Why**).
 
 #### Details
 
