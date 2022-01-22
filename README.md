@@ -1,7 +1,7 @@
 # Request for Comments (RFC)
 
 ## Outline
-Request for Comments (RFC) is a process available to anyone at Dreams to help identify and resolve the following challenges:
+Request for Comments (RFC) is a process available to anyone in the company to help identify and resolve the following challenges:
 
 - Primary Responsibility
 - Overall alignment
@@ -23,6 +23,3 @@ The simple outline of applying the RFC process is:
 5) Create a pull request containing the changes
 6) Invite people to discuss
 7) Once the satisfactory document is created, remember to set **Resolution** (we start with **Open**, of course)
-
-## Questions
-Please go to the [#rfc](https://getdreams.slack.com/archives/CSP2LMQUX) channel in our Slack.

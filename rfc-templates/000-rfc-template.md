@@ -1,10 +1,10 @@
 ### Title
 
-A short title setting the theme for the RFC (the What).
+A short title setting the theme for the RFC (**What**).
 
 #### Problem Statement
 
-A few paragraphs that describes the root problem (the Why).
+A few paragraphs that describes the root problem (**Why****).
 
 #### Details
 
@@ -12,16 +12,16 @@ If needed, more in-depth description of the problem and its context.
 
 #### Proposers
 
-A list of proposers. These are the owners of the RFC, and is responsible for moving it to a resolved state (the Who).
+A list of proposers. These are the owners of the RFC, and is responsible for moving it to a resolved state ( **Who**).
 
 #### Duration
 
-A date when the RFC should be resolved. A decision should be taken before this date, or the duration extended (the When).
+A date when the RFC should be resolved. A decision should be taken before this date, or the duration extended (**When**).
 If there's a hard external dead-line make sure to state it here as well.
 
 #### Solution
 
-In depth description. Broken down in to sub-sections if more than one proposal for how to solve the problem exists. Pictures and diagrams are useful (the How).
+In depth description. Broken down in to sub-sections if more than one proposal for how to solve the problem exists. Pictures and diagrams are useful (**How**).
 Take care to list Benefits and Drawbacks of each proposal.
 Aim at being value neutral and objective when describing the solution. Minimize statements that opens up for different interpretations.
 
@@ -43,6 +43,6 @@ The state of the RFC:
 
 **Open** :: Review in progress.
 
-**Closed** :: A resolution have been reached. If there's not obvious consensus or if the RFC contains several proposed solutions - write down why the decision was made.
+**Closed** :: A resolution have been reached. If there is no obvious consensus or if the RFC contains several proposed solutions - write down why the decision was made.
 
 **Rejected** :: The RFC is not relevant anymore. Also write down /why/.
